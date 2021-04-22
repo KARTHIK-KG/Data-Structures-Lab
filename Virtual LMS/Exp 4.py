@@ -8,3 +8,8 @@ if num>1:
             break
         else:
             print(num,"is a prime number")
+
+
+# Input: 3  Output:  3 is a prime number
+
+# Input: 6  Output:  6 is not a prime number

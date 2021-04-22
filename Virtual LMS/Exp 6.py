@@ -9,3 +9,10 @@ def calc(n):
         fact*=i
     return fact
 print(calc(n))
+
+
+# Input: 4  Output:  24
+
+# Input: 5  Output:  120
+
+# Input: -5  Output: Factorial does not exist for negative numbers
